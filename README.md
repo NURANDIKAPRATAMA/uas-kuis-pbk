@@ -1,5 +1,6 @@
 # uas-kuis-pbk
-
+NAMA  : NUR ANDIKA PRATAMA
+NPM  : 213510569
 ## Project setup
 ```
 npm install
